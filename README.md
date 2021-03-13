@@ -1,0 +1,2 @@
+# extinct2
+game
